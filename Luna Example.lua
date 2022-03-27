@@ -1,4 +1,6 @@
-local win = WindowTable:Window({
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZepsyyCodesLUA/Luna-UI/main/Luna%20Open%20Source.lua"))()
+
+local win = Library:Window({
 	Title = "Luna Lib",
 	gameName = "Untitled Game"
 })
