@@ -3,6 +3,6 @@ local Luna = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZepsyyCo
 
 --Luna Window--
 local win = WindowTable:Window({
-	<string> Title
-	<string> gameName
+<string> Title
+<string> gameName
 })
